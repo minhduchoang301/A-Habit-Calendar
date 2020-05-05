@@ -1,4 +1,4 @@
-# Calendar - Group 250
+# Calendar - Group 250 - CSC207H1S 2020 - University of Toronto
 
 ## How to use:
 Run Main.main() to access the options to perform on the user and its calendar's activities. Throughout the TextUI, you will be given choices to operate.

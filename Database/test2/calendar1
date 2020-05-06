@@ -1,0 +1,52 @@
+event name
+200101012015
+200101012015
+alert name~200101012015~event namealert name0
+series
+tag
+memo;
+event2
+200101012015
+200101012015
+
+
+
+
+event for alert
+200101012015
+200101012015
+alert with spaces~200101012015~event for memomemo with spaces0
+
+
+
+event for memo
+200101012015
+200101012015
+
+
+
+memo with spaces;
+GUIEvent
+202010101010
+202110101010
+
+
+
+
+@
+memo;memo with spaces;
+event name
+200101012015
+200101012015
+alert name~200101012015~event namealert name0
+series
+tag
+memo;
+memo;
+@
+memo;memo;
+memo;memo;
+@
+202004171939
+@
+@
